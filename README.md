@@ -22,7 +22,7 @@ Hide `wp-login.php` and `wp-admin` from bots and hackers. Allow login only throu
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 Once activated:
 - Anyone accessing `/wp-login.php` or `/wp-admin` without login gets a custom 404 page.
@@ -31,7 +31,7 @@ Once activated:
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 1. **Install Plugin**
    - Upload `ultra-stealth-login` folder to `/wp-content/plugins/`
@@ -58,4 +58,4 @@ Once activated:
 ## Admin UI Preview
 
 ```plaintext
-🟢 Login URL is active at: https://yourdomain.com/my-secret-login   [Copy]
+🟢 Login URL is active at: https://yourdomain.com/my-secret-login  
